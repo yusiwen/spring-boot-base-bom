@@ -1,5 +1,5 @@
 {
   "dependencyDashboard": true,
   "pinDigests": false,
-  "baseBranches": ["spring-boot-2.3.x", "spring-boot-2.4.x"]
+  "baseBranches": ["spring-boot-2.3.x", "spring-boot-2.4.x", "spring-boot-2.5.x"]
 }
