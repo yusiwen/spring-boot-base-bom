@@ -94,6 +94,13 @@
                 <scope>import</scope>
             </dependency>
 
+            <!-- Spring Security -->
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-security</artifactId>
+                <version>${spring-boot.version}</version>
+            </dependency>
+
             <!--监控服务端-->
             <dependency>
                 <groupId>de.codecentric</groupId>
