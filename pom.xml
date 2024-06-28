@@ -49,7 +49,7 @@
         <fastjson.version>1.2.83</fastjson.version>
         <log4j2.version>2.18.0</log4j2.version> <!-- Patch for CVE-2021-44228 -->
         <hutool.version>5.8.10</hutool.version>
-        <lombok.version>1.18.24</lombok.version>
+        <lombok.version>1.18.34</lombok.version>
         <swagger.version>3.0.0</swagger.version>
 
         <!-- Overriding chained dependencies for fixing vulnerabilities -->
