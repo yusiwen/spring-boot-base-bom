@@ -54,7 +54,7 @@
 
         <!-- Overriding chained dependencies for fixing vulnerabilities -->
         <spring-framework.version>5.3.24</spring-framework.version>
-        <logback.version>1.2.11</logback.version>
+        <logback.version>1.5.11</logback.version>
         <slf4j.version>1.7.36</slf4j.version>
     </properties>
 
