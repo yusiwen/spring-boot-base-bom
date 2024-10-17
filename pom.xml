@@ -53,7 +53,7 @@
         <swagger.version>3.0.0</swagger.version>
 
         <!-- Overriding chained dependencies for fixing vulnerabilities -->
-        <spring-framework.version>5.2.22.RELEASE</spring-framework.version>
+        <spring-framework.version>6.1.14</spring-framework.version>
         <jakarta.el.version>3.0.4</jakarta.el.version>
         <logback.version>1.2.11</logback.version>
         <slf4j.version>1.7.36</slf4j.version>
